@@ -30,6 +30,14 @@ by searching online, i found the link for login page and found default login use
 <br>
 login with username is administrator and password is radius. <br>
 ![image](https://github.com/user-attachments/assets/ef5be6a8-bb0c-4365-b947-d14a458d5d31)
+in Management found username svcMosh and password hash <br>
+![image](https://github.com/user-attachments/assets/a7d60a6b-db65-46d8-a218-ab7c77fa7e5c)
+crack the hash
+![image](https://github.com/user-attachments/assets/6ee70e34-7de6-4dd6-b815-ac97f339b694)
+<br>
+password is underwaterfriends
+
+
 
 
 
