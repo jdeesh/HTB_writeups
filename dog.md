@@ -13,5 +13,9 @@ this specfic version is vulnerable to Authenticated RCE.
 https://www.exploit-db.com/exploits/52021?utm_source=dlvr.it&utm_medium=twitter  
 now i should get minimal user access to exploit the application.  
 ![image](https://github.com/user-attachments/assets/e601b617-3f4c-4574-9aac-1509462bd778)
+found 2 user...
+dogBackDropSystem
+john
+need to find out the passwords of the user
 
 
