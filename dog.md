@@ -1,4 +1,4 @@
-writeup on HTB-DOG <br>
+cat writeup on HTB-DOG <br>
 Difficulty rating **Easy** <br>
 Step1: Adding Host<br>
 Add dog.htb in /etc/hosts<br>
@@ -13,9 +13,21 @@ this specfic version is vulnerable to Authenticated RCE.
 https://www.exploit-db.com/exploits/52021?utm_source=dlvr.it&utm_medium=twitter  
 now i should get minimal user access to exploit the application.  
 ![image](https://github.com/user-attachments/assets/e601b617-3f4c-4574-9aac-1509462bd778)
-found 2 user.  
+found 3 user.  
 dogBackDropSystem.  
-john.  
+john.
+tiffany@dog.htb.  
+![image](https://github.com/user-attachments/assets/113c50a2-43f9-4181-a22f-918f481f689c)
+
 need to find out the passwords of the user.  
+in settings.php found mysql password
+![image](https://github.com/user-attachments/assets/c7b7d3f6-4927-4df4-b7e0-ae6a3b7f503d)
+tried.  
+john:BackDropJ2024DS2024.  
+dogBackDropSystem:BackDropJ2024DS2024.  
+tiffany:BackDropJ2024DS2024.  
+tiffany worked out.  
+
+
 
 
